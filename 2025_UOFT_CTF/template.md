@@ -36,3 +36,11 @@
 # Example command
 some_command_here -option
 
+### Step 2: [Brief Step Title]
+**Details:**  
+[Explain the next step, including analysis or observations.]
+
+```bash
+# Example command
+some_command_here -option
+
