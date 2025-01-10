@@ -35,6 +35,7 @@
 ```bash
 # Example command
 some_command_here -option
+```
 
 ### Step 2: [Brief Step Title]
 **Details:**  
@@ -43,4 +44,10 @@ some_command_here -option
 ```bash
 # Example command
 some_command_here -option
+```
+
+## Flag
+```bash
+#flag here
+```
 
